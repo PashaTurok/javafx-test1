@@ -1,0 +1,12 @@
+.tab-pane > .tab-header-area > .headers-region > .tab > .tab-container > .tab-label {
+    -fx-alignment: center;
+    -fx-text-fill: -fx-text-base-color;
+    -fx-padding:0 10 0 0;
+    -fx-font-size: 15px;
+}
+
+.tab-header-area .tab {
+    -fx-padding:4 10 5 10;
+    -fx-border-radius: 10 10 0 0;
+    -fx-background-radius: 10 10 0 0;
+}
